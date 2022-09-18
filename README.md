@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## my Skills
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ps,)](https://skillicons.dev)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
