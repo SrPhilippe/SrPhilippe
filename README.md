@@ -33,7 +33,7 @@ My name is Philippe and I am currently studying web programming on my own. My go
     <img src="https://skillicons.dev/icons?i=html,css,js,ps">
 </div>
 
-### 🔭 I’m currently working on [my personal webpage](https://srphilippe.github.io/phil-portfolio/https://srphilippe.github.io/phil-portfolio/)
+### 🔭 I’m currently working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener">my personal webpage</a>
 
 ---
 
