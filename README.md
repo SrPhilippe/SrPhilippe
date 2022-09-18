@@ -1,4 +1,3 @@
-
 <!--
 **SrPhilippe/SrPhilippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Welcome to my profile 👋🍃
+
+<div align="center">
+    <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener">
+    <img src="src/render-logo.png" width="50%">
+    </a>
+</div>
+
+---
 
 My name is Philippe and I am currently studying web programming on my own. My goal is to improve my weaknesses using the resources available nowadays, focusing on using less code to achieve results without having to get tangled up along the way. I really like the diversity that exists especially when we talk about web APIs.
 
