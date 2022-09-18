@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome to my profile 👋🍃
 
 <div align="center">
-    <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener">
+    <a href="https://srphilippe.github.io/phil-portfolio/">
     <img src="src/render-logo.png" width="30%">
     </a>
 </div>
@@ -33,7 +33,7 @@ My name is Philippe and I am currently studying web programming on my own. My go
     <img src="https://skillicons.dev/icons?i=html,css,js,ps">
 </div>
 
-### 🔭 I’m currently working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener">my personal webpage</a>
+### 🔭 I’m currently working on <a href="https://srphilippe.github.io/phil-portfolio/">my personal webpage</a>
 
 ---
 
