@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener">
-    <img src="src/render-logo.png" width="50%">
+    <img src="src/render-logo.png" width="30%">
     </a>
 </div>
 
