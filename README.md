@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 -->
 # Welcome to my profile 👋🍃
 
-Meu nome é Philippe e atualmente estudo por conta própria programação web. Tenho como objetivo atual melhorar meus pontos fracos na utilização dos recursos disponíveis nos dias atuais, utilizando menos código pra conseguir o mesmo resultado. Gosto muito da diversidade que temos de web APIs para utilizar, e minha preferência é sempre utilizar javascript puro.
+My name is Philippe and I am currently studying web programming on my own. My goal is to improve my weaknesses using the resources available nowadays, focusing on using less code to achieve results without having to get tangled up along the way. I really like the diversity that exists especially when we talk about web APIs.
 
-- ## I'm most used to these ↓
+> Meu nome é Philippe e atualmente estudo programação web por conta própria. Tenho como objetivo atual melhorar meus pontos fracos com utilização dos recursos disponíveis nos dias atuais, focando em utilizar menos código pra conseguir alcançar os resultados sem precisar se embolar durante o caminho. Gosto muito da diversidade que existe quando falamos especialmente de web APIs.
+
+- ## I'm most used to ↓
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ps">
