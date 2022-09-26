@@ -1,43 +1,29 @@
-<!--
-**SrPhilippe/SrPhilippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there!!!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Welcome to my profile 👋🍃
-
-<div align="center">
+<div align="right">
     <a href="https://srphilippe.github.io/phil-portfolio/">
     <img src="src/render-logo.png" width="30%">
     </a>
 </div>
 
----
+<p align="left">My name is Philippe and I am currently studying web programming on my own. My goal is to improve my weaknesses using the resources available nowadays, focusing on using less code to achieve results without having to get tangled up along the way. I really like the diversity that exists especially when we talk about web APIs.</p>
 
-My name is Philippe and I am currently studying web programming on my own. My goal is to improve my weaknesses using the resources available nowadays, focusing on using less code to achieve results without having to get tangled up along the way. I really like the diversity that exists especially when we talk about web APIs.
+## 
 
-> Meu nome é Philippe e atualmente estudo programação web por conta própria. Tenho como objetivo atual melhorar meus pontos fracos com utilização dos recursos disponíveis nos dias atuais, focando em utilizar menos código pra conseguir alcançar os resultados sem precisar se embolar durante o caminho. Gosto muito da diversidade que existe quando falamos especialmente de web APIs.
+<div align="left">
+    <h3>I'm most used to ↓</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ps">
+</div>
 
-- ## I'm most used to ↓
-
-<div align="center">
+<div align="right">
+    <h3>I’m currently learning ↓</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,ps">
 </div>
 
 ### 🔭 I’m currently working on <a href="https://srphilippe.github.io/phil-portfolio/">my personal webpage</a>
 
----
 
-- ## 🌱 I’m currently learning ↓
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=webpack">
