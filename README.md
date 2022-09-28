@@ -1,11 +1,13 @@
 <img src="src/banner-github-profile.png">
 
-My name is Philippe and I am currently studying web programming on my own. My goal is to improve my weaknesses using the resources available nowadays, focusing on using less code to achieve results without having to get tangled up along the way. I really like the diversity that exists especially when we talk about web APIs.
+I'm Philippe, a student from Brazil. I study web programming on my own. My goal is to improve my knowledge and skills using the resources available nowadays, focusing on using fewer blocks of code to achieve the same results as before. In this world of web development, I think it's amazing what we have today when we talk about web APIs.
 
-**I’m currently learning**
-<p align="left"> 
-    <img src="https://skillicons.dev/icons?i=webpack,nodejs,react">
-<p/>
+I’m currently learning
+<img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react" style="margin-right: 2rem">
+
+[![Philippe's GitHub stats](https://github-readme-stats.vercel.app/api?username=srphilippe&hide=stars&show_icons=true&card_width=110&theme=city_lights)](https://github.com/srphilippe/github-readme-stats)
+
+
 
 *🔭 I’m currently working on [my personal webpage](https://srphilippe.github.io/phil-portfolio/)*
 
