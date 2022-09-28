@@ -8,7 +8,7 @@
 <img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react" style="margin-right: 2rem">
 </div>
 
-<p>🔭 I’m currently working on <a href="https://srphilippe.github.io/phil-portfolio/">my personal webpage</a></p>
+<p>🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/">this project</a></p>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
