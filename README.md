@@ -4,8 +4,13 @@
 
 <p>I'm Philippe, a student from Brazil. I study web programming on my own. My goal is to improve my knowledge and skills using the resources available nowadays, focusing on using fewer blocks of code to achieve the same results as before. In this world of web development, I think it's amazing what we have today when we talk about web APIs.</p>
 
-<h3>I'm currently learning</h3>
-<img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react" style="margin-right: 2rem"<p>🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener"><img style="vertical-align:middle;" src="https://img.shields.io/badge/this project-2185ba?style=flat"></a></p>
+
+
+
+<img align="left" src="https://img.shields.io/badge/I'm currently learning-blue?style=for-the-badge">
+<img align="left" style="clear:both;" src="https://skillicons.dev/icons?i=webpack,nodejs,react" style="margin-right: 2rem">
+<p>🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener"><img style="vertical-align:middle;" src="https://img.shields.io/badge/this project-2185ba?style=flat"></a>
+</p>
 
 <a href="https://" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=FFF">
