@@ -7,8 +7,8 @@
 <div style="position:relative;width:fit-content;">
     <h3>I'm currently learning</h3>
     <img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react" style="margin-right: 2rem">
-    <p style="position:absolute;right:0;margin-right:-210px;">🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener"><img style="vertical-align:middle;" src="https://img.shields.io/badge/this project-2185ba?style=flat"></a></p>
-    <span style="position:absolute;right:0;margin-right:-210px;bottom:0;">
+    <p style="position:absolute;right:0;top:0;margin-right:-210px;">🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener"><img style="vertical-align:middle;" src="https://img.shields.io/badge/this project-2185ba?style=flat"></a></p>
+    <span style="position:absolute;right:0;bottom:0;margin-right:-210px;">
     <a href="https://" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=FFF">
     </a>
