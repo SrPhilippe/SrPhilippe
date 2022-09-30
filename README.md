@@ -8,7 +8,24 @@
 <img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react" style="margin-right: 2rem">
 </div>
 
-<p>🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/">this project</a></p>
+<p>🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener"><img style="vertical-align:middle;" src="https://img.shields.io/badge/this project-2185ba?style=flat"></a></p>
+
+<p align="right" style="clear:both;">
+<a href="https://instagram.com/elpelippe" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFF">
+</a>
+<a href="https://linkedin.com/in/philippehenrique/" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFF">
+</a>
+</p>
+
+
+<a href="https://" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=FFF">
+</a>
+<a href="https://" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=FFF">
+</a>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/SrPhilippe/SrPhilippe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
