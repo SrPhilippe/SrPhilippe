@@ -4,18 +4,9 @@
 
 <p>I'm Philippe, a student from Brazil. I study web programming on my own. My goal is to improve my knowledge and skills using the resources available nowadays, focusing on using fewer blocks of code to achieve the same results as before. In this world of web development, I think it's amazing what we have today when we talk about web APIs.</p>
 
-<p style="margin-bottom:3rem;">
+<p>
 <img align="left" style="margin-right:1rem;margin-top:0.8rem;" src="https://img.shields.io/badge/I'm currently learning-2185BA?style=for-the-badge">
 <img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react">
-</p>
-
-<p align="left" style="margin-right:50%;">
-<a href="https://" target="_blank" rel="noopener">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=FFF">
-</a>
-<a href="https://" target="_blank" rel="noopener">
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=FFF">
-</a>
 </p>
 
 <p align="right">
