@@ -7,11 +7,12 @@
 
 
 <p>
-<img align="left" style="margin-right:1rem;" src="https://img.shields.io/badge/I'm currently learning-blue?style=for-the-badge">
-<img align="left" style="margin-right: 4rem" src="https://skillicons.dev/icons?i=webpack,nodejs,react">
+<img align="left" style="margin-right:1rem;" src="https://img.shields.io/badge/I'm currently learning-2185BA?style=for-the-badge">
+<img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react">
 </p>
 
-<p>🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener"><img style="vertical-align:middle;" src="https://img.shields.io/badge/this project-2185ba?style=flat"></a>
+<p align="left"  style="clear:both;">
+<p>🔭 I'm also working on <a href="https://srphilippe.github.io/phil-portfolio/" target="_blank" rel="noopener"><img style="vertical-align:middle;" src="https://img.shields.io/badge/this project-2185ba?style=flat"></a></p>
 </p>
 
 <a href="https://" target="_blank" rel="noopener">
@@ -21,7 +22,7 @@
 <img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=FFF">
 </a>
 
-<p align="right" style="position:absolute;">
+<p align="right">
     <a href="https://instagram.com/elpelippe" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFF">
     </a>
