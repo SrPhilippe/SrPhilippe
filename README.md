@@ -9,6 +9,15 @@
 <img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react">
 </p>
 
+<p align="left" style="margin-right:50%;">
+<a href="https://" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=FFF">
+</a>
+<a href="https://" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=FFF">
+</a>
+</p>
+
 <p align="right">
     <a href="https://instagram.com/elpelippe" target="_blank" rel="noopener">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFF">
