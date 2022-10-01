@@ -1,4 +1,4 @@
-<img src="src/banner-github-profile.png">
+<!-- <img src="src/banner-github-profile.png"> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=srphilippe&hide=stars&show_icons=true&card_width=250&theme=city_lights" align="right">
 
@@ -9,14 +9,14 @@
 <img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react">
 </p>
 
-<p align="left" style="margin-right:50%;">
+<!-- <p align="left" style="margin-right:50%;">
 <a href="https://" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=FFF">
 </a>
 <a href="https://" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/Spotify-1DB954?style=plastic&logo=spotify&logoColor=FFF">
 </a>
-</p>
+</p> -->
 
 <p align="right">
     <a href="https://instagram.com/elpelippe" target="_blank" rel="noopener">
