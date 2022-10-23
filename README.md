@@ -6,7 +6,7 @@
 
 <p>
 <img align="left" style="margin-right:1rem;margin-top:0.8rem;" src="https://img.shields.io/badge/I'm currently learning-2185BA?style=for-the-badge">
-<img align="left" src="https://skillicons.dev/icons?i=webpack,nodejs,react">
+<img align="left" src="https://skillicons.dev/icons?i=webpack,vite,nodejs,react">
 </p>
 
 <!-- <p align="left" style="margin-right:50%;">
